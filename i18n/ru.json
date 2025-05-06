@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Daniel Yepez Garces"
+		]
+	},
+	"springboard": "Springboard",
+	"springboard-desc": "Позволяет пользователям устанавливать расширения и скины в их вики",
+	"springboard-extensions-tab-name": "Расширения",
+	"springboard-skins-tab-name": "Скины",
+	"springboard-api-error-loadedelsewhere": "$1 уже загружен в другом месте (LocalSettings.php)",
+	"springboard-api-error-alreadyinstalled": "$1 уже установлен",
+	"springboard-api-error-notinstalled": "$1 не установлен",
+	"springboard-api-error-invalidtype": "Неверный тип. Доступные типы => [extension, skin]",
+	"springboard-api-error-composerfile": "Не удалось найти файл composer.json в $1"
+}
