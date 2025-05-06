@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Daniel Yepez Garces"
+		]
+	},
+	"springboard": "Springboard",
+	"springboard-desc": "ユーザーがウィキに拡張機能やスキンをインストールできるようにします",
+	"springboard-extensions-tab-name": "拡張機能",
+	"springboard-skins-tab-name": "スキン",
+	"springboard-api-error-loadedelsewhere": "$1は他の場所ですでに読み込まれています（LocalSettings.php）",
+	"springboard-api-error-alreadyinstalled": "$1はすでにインストールされています",
+	"springboard-api-error-notinstalled": "$1はインストールされていません",
+	"springboard-api-error-invalidtype": "無効なタイプです。利用可能なタイプ => [extension, skin]",
+	"springboard-api-error-composerfile": "$1にcomposer.jsonファイルが見つかりませんでした"
+}
