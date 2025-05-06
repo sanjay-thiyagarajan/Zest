@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Daniel Yepez Garces"
+		]
+	},
+	"springboard": "Springboard",
+	"springboard-desc": "Ermöglicht es Benutzern, Erweiterungen und Skins in ihrem Wiki zu installieren",
+	"springboard-extensions-tab-name": "Erweiterungen",
+	"springboard-skins-tab-name": "Skins",
+	"springboard-api-error-loadedelsewhere": "$1 ist bereits woanders geladen (LocalSettings.php)",
+	"springboard-api-error-alreadyinstalled": "$1 ist bereits installiert",
+	"springboard-api-error-notinstalled": "$1 ist nicht installiert",
+	"springboard-api-error-invalidtype": "Ungültiger Typ. Verfügbare Typen => [extension, skin]",
+	"springboard-api-error-composerfile": "Die Datei composer.json konnte in $1 nicht gefunden werden"
+}
