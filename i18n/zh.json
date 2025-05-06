@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Daniel Yepez Garces"
+		]
+	},
+	"springboard": "Springboard",
+	"springboard-desc": "允许用户在他们的维基中安装扩展和皮肤",
+	"springboard-extensions-tab-name": "扩展",
+	"springboard-skins-tab-name": "皮肤",
+	"springboard-api-error-loadedelsewhere": "$1 已经在其他地方加载（LocalSettings.php）",
+	"springboard-api-error-alreadyinstalled": "$1 已经安装",
+	"springboard-api-error-notinstalled": "$1 尚未安装",
+	"springboard-api-error-invalidtype": "无效的类型。可用类型 => [extension, skin]",
+	"springboard-api-error-composerfile": "无法在 $1 中找到 composer.json 文件"
+}
